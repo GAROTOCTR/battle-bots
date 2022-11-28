@@ -1,0 +1,7 @@
+body{ 
+    max-width: 1280px;
+    width: 100%;
+    height: 900px;
+    background-image: linear-gradient(to left,#292727,#333130,#343231);
+}
+
